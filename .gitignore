@@ -22,3 +22,4 @@ Thumbs.db
 
 # ngrok binary
 ngrok.exe
+"app/data/serviceAccountKey.json" 
